@@ -6,8 +6,8 @@ package q001;
  * 以下のプログラムは正しく実行できません。
  * 正しく実行できるように修正してください。
  */
-public class Q001 {
-    void main() {
+class Q001 {
+    public static void main(String args[]) {
         System.out.println("Hello World!");
     }
 }
